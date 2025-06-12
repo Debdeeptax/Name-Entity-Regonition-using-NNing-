@@ -88,4 +88,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 MIT License
 
 ## 📧 Contact
-Debdeepta — GitHub Profile
+Debdeepta — [GitHubProfile](https://github.com/Debdeeptax)
+
